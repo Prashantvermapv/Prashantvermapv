@@ -1,10 +1,10 @@
-## Hola! Welcome to Prashant's Github
+## Hola! Welcome to Prashant's Github :)
 
 <a href="https://www.linkedin.com/in/prashantvermaa/">
-  <img align="left" alt="Prashant's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Prashant's LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/prashantverma98">
-  <img align="left" alt="Prashant's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/kaggle.svg" />
+  <img align="left" alt="Prashant's Kaggle" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/kaggle.svg" />
 </a>
 <br />
 <br />
