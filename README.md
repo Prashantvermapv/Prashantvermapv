@@ -1,4 +1,4 @@
-### Hola!, I'm Prashant
+### Hola! This is Prashant's Github
 <br>
 <a href="https://www.linkedin.com/in/prashantvermaa/">
   <img align="left" alt="Prashant's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -12,18 +12,16 @@
 ```dart
 
 class AboutPrashant:
-  def __init__(self):
-    self.name = "Prashant Verma"
-  def getStack(self):
-    return {'languages' : [''Python','C++'],
-              'frameWorks' : ['Django','Flask']
+  
+  def getSkills(self):
+    return {'languages' : ['Python', 'SQL', 'C++'],
+              'Web' : ['Django','frontend'],
+                'DS' : ['Feature Engineering', 'Data Anaytics', 'Machine Learning', 'Natural Language Processing']
               }
-  def getMyInterests(self):
-    return ['DS-Algo','MachineLearning','NLP']
-    
+              
   def getAchievements(self):
-    return ['Won SIH2020','Won SIH2019']
+    return ('Won SIH2020','Won SIH2019')
     
  ```
  # Git Status
- ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=Prashantvermapv&show_icons=true&hide_border=true&theme=dark)
+ ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=Prashantvermapv&show_icons=true&hide_border=true&theme=onedark)
