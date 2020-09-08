@@ -1,9 +1,9 @@
 ### Hola!, I'm Prashant
-
+<br>
 <a href="https://www.linkedin.com/in/prashantvermaa/">
   <img align="left" alt="Prashant's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/abhishekk07">
+<a href="https://www.kaggle.com/prashantverma98">
   <img align="left" alt="Prashant's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/kaggle.svg" />
 </a>
 <br />
@@ -26,4 +26,4 @@ class AboutPrashant:
     
  ```
  # Git Status
- ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=Prashantvermapv&show_icons=true&hide_border=true)
+ ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=Prashantvermapv&show_icons=true&hide_border=true&theme=dark)
