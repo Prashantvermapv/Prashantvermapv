@@ -3,9 +3,9 @@
 <a href="https://www.linkedin.com/in/prashantvermaa/">
   <img align="left" alt="Prashant's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.kaggle.com/prashantverma98">
+<!-- <a href="https://www.kaggle.com/prashantverma98">
   <img align="left" alt="Prashant's Kaggle" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/kaggle.svg" />
-</a>
+</a> -->
 <br />
 <br />
 
