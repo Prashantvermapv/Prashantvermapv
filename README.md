@@ -23,5 +23,3 @@ class AboutPrashant:
     return ('Won SIH2020','Won SIH2019')
     
  ```
- ## Git Status
- ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=Prashantvermapv&show_icons=true&hide_border=true&theme=onedark)
